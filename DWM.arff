@@ -1,0 +1,30 @@
+@relation employee
+@attribute empid numeric
+@attribute name{bhakti,shakti,kiran,pooja,shraddha}
+@attribute contactno numeric
+@attribute salary numeric
+@attribute experience {high,low}
+@attribute age numeric
+@attribute gender{male,female}
+
+
+@data
+101,bhakti,956165,150000,high,20,female
+102,shakti,956162,2500,low,40,female
+103,kiran,96163,350000,high,50,male
+104,pooja,12465,4500,low,55,female
+105,shraddha,23845,30000,high,60,female
+104,pooja,12395,1500,low,30,female
+103,kiran,12045,10000,high,26,male
+102,shakti,12355,120000,high,27,female
+101,bhakti,12344,150000,high,29,female
+102,shakti,12325,1600,low,22,female
+103,kiran,1285,10000,high,50,male
+104,pooja,12345,15000,high,40,female
+104,pooja,12345,50000,high,30,female
+105,shraddha,12345,1509,low,28,female
+105,shraddha,12345,14990,high,38,female
+
+
+
+
